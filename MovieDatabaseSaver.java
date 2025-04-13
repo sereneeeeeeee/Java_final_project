@@ -11,7 +11,7 @@ public class MovieDatabaseSaver {
 
             for (Movie movie : movies) {
                 // 插入主表
-                PreparedStatement pstmt = conn.prepareStatement(insertMovieSQL, Statement.RETURN_GENERATED_KEYS);
+                reparedStatement pstmt = conn.prepareStatement(insertMovieSQL, Statement.RETURN_GENERATED_KEYS);
                 pstmt.setString(1, movie.getTitle());
                 pstmt.setString(2, movie.getImage());
                 pstmt.setString(3, movie.getUrl());
