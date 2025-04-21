@@ -10,11 +10,22 @@ public class Movie {
     private int year;
     private List<String> genre;
 
-    public String getTitle() { return title; }
-    public String getImage() { return image; }
-    public String getUrl() { return url; }
-    public String getLink() { return link; }
-    public String getDirector() { return director; }
+    public String getTitle() {
+        return title;
+    }
+
+    public String getImage() {
+        return image;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public String getLink() {
+        return link;
+    }
+
     public List<String> getActors() { return actors; }
     public String getOverview() { return overview; }
     public int getYear() { return year; }
