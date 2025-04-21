@@ -1,6 +1,5 @@
 import java.util.List;
 
-
 public class Movie {
     private String title;
     private String image;
@@ -10,4 +9,14 @@ public class Movie {
     private String overview;
     private int year;
     private List<String> genre;
+
+    public String getTitle() { return title; }
+    public String getImage() { return image; }
+    public String getUrl() { return url; }
+    public String getLink() { return link; }
+    public String getDirector() { return director; }
+    public List<String> getActors() { return actors; }
+    public String getOverview() { return overview; }
+    public int getYear() { return year; }
+    public List<String> getGenre() { return genre; }
 }
