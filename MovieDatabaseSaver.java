@@ -1,11 +1,17 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.List;
+
 public class MovieDatabaseSaver {
 
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/your_database";
-    private static final String USER = "your_user";
-    private static final String PASSWORD = "your_password";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/my_movie_db";
+    private static final String USER = "root";
+    private static final String PASSWORD = "Movie2025!";
 
     public static void saveMovies(List<Movie> movies) {
-        String insertMovieSQL = "INSERT INTO movies (title, image, url, link, director, overview, year) VALUES (?, ?, ?, ?, ?, ?, ?)";
+        String insertMovieSQL = "INSERT INTO movies (title, image, url, link, overview, year) VALUES (?, ?, ?, ?, ?, ?)";
 
         try (Connection conn = DriverManager.getConnection(DB_URL, USER, PASSWORD)) {
 
