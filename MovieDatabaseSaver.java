@@ -38,9 +38,8 @@ public class MovieDatabaseSaver {
                 movieStmt.setString(2, movie.getImage());
                 movieStmt.setString(3, movie.getUrl());
                 movieStmt.setString(4, movie.getLink());
-                movieStmt.setString(5, movie.getDirector());
-                movieStmt.setString(6, movie.getOverview());
-                movieStmt.setInt(7, movie.getYear());
+                movieStmt.setString(5, movie.getOverview());
+                movieStmt.setInt(6, movie.getYear());
                 movieStmt.executeUpdate();
 
                 // 取得 movie_id
