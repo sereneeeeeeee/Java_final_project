@@ -1,8 +1,4 @@
-package movieSaveToDatabase;
-
 import java.util.List;
-import movieSaveToDatabase.MovieParser;
-import movieSaveToDatabase.MovieDatabaseSaver;
 
 //主程式執行入口
 public class Main {

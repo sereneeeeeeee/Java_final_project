@@ -1,5 +1,3 @@
-package movieSaveToDatabase;
-
 import java.util.List;
 
 public class Movie {
