@@ -4,6 +4,7 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import java.io.FileReader;
 import java.util.List;
+import movieSaveToDatabase.Movie;
 
 //讀取JSON檔案解析成Java的List<Movie>物件清單
 public class MovieParser {
