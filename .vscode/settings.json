@@ -1,0 +1,6 @@
+{
+    //把 libs 資料夾中的所有 .jar 當作專案的 Library 引入
+    "java.project.referencedLibraries": [
+      "libs/**/*.jar"
+    ]
+}
