@@ -1,3 +1,5 @@
+package movieSaveToDatabase;
+
 import java.util.List;
 
 public class Movie {
@@ -26,8 +28,19 @@ public class Movie {
         return link;
     }
 
-    public List<String> getActors() { return actors; }
-    public String getOverview() { return overview; }
-    public int getYear() { return year; }
-    public List<String> getGenre() { return genre; }
+    public List<String> getActors() {
+        return actors;
+    }
+
+    public String getOverview() {
+        return overview;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public List<String> getGenre() {
+        return genre;
+    }
 }
