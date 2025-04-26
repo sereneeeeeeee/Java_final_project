@@ -9,8 +9,8 @@ public class Movie {
     private String link;
     private List<String> actors;
     private String overview;
-    private int year;
-    private List<String> genre;
+    private String year;
+    private List<Integer> genre;
 
     public String getTitle() {
         return title;
@@ -36,11 +36,11 @@ public class Movie {
         return overview;
     }
 
-    public int getYear() {
+    public String getYear() {
         return year;
     }
 
-    public List<String> getGenre() {
+    public List<Integer> getGenre() {
         return genre;
     }
 }
