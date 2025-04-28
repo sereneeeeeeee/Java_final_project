@@ -46,7 +46,7 @@ public class MovieDatabaseSaver {
                 movieStmt.setString(2, movie.getYear());
                 movieStmt.setString(3, movie.getOverview());
                 movieStmt.setString(4, movie.getLink());
-                movieStmt.setString(5, movie.getImage());
+                movieStmt.setString(5, movie.getPoster());
 
                 movieStmt.executeUpdate(); // 執行前面準備好的 SQL 語句，並把資料寫入資料庫。
 
@@ -58,12 +58,15 @@ public class MovieDatabaseSaver {
                 }
 
                 // 插入演員
-                String insertActorSQL = "INSERT INTO movie_actors (movie_id, actor_name) VALUES (?, ?)";
-                for (String actor : movie.getActors()) {
-                    try (PreparedStatement actorStmt = conn.prepareStatement(insertActorSQL)) {
-                        actorStmt.setInt(1, movieId);
-                        actorStmt.setString(2, actor);
-                        actorStmt.executeUpdate();
+                List<String> actors = movie.getActors();
+                if (actors != null && !actors.isEmpty()) { // 避免空指標
+                    String insertActorSQL = "INSERT INTO movie_actors (movie_id, actor_name) VALUES (?, ?)";
+                    for (String actor : actors) {
+                        try (PreparedStatement actorStmt = conn.prepareStatement(insertActorSQL)) {
+                            actorStmt.setInt(1, movieId);
+                            actorStmt.setString(2, actor);
+                            actorStmt.executeUpdate();
+                        }
                     }
                 }
 
@@ -90,14 +93,17 @@ public class MovieDatabaseSaver {
                         Map.entry(37, "Western"));
 
                 // 插入分類
-                String insertGenreSQL = "INSERT INTO movie_genres (movie_id, genre_name) VALUES (?, ?)";
-                for (Integer genreId : movie.getGenre()) {
-                    String genreName = genreMap.get(genreId); // 轉換為對應的名稱
-                    if (genreName != null) { // 確保 genreName 不為 null
-                        try (PreparedStatement genreStmt = conn.prepareStatement(insertGenreSQL)) {
-                            genreStmt.setInt(1, movieId);
-                            genreStmt.setString(2, genreName);
-                            genreStmt.executeUpdate();
+                List<Integer> genres = movie.getGenre();
+                if (genres != null && !genres.isEmpty()) {
+                    String insertGenreSQL = "INSERT INTO movie_genres (movie_id, genre_name) VALUES (?, ?)";
+                    for (Integer genreId : genres) {
+                        String genreName = genreMap.get(genreId); // 轉換為對應的名稱
+                        if (genreName != null) { // 確保 genreName 不為 null
+                            try (PreparedStatement genreStmt = conn.prepareStatement(insertGenreSQL)) {
+                                genreStmt.setInt(1, movieId);
+                                genreStmt.setString(2, genreName);
+                                genreStmt.executeUpdate();
+                            }
                         }
                     }
                 }

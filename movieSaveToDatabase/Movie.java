@@ -4,7 +4,7 @@ import java.util.List;
 
 public class Movie {
     private String title;
-    private String image;
+    private String poster;
     private String url;
     private String link;
     private List<String> actors;
@@ -16,8 +16,8 @@ public class Movie {
         return title;
     }
 
-    public String getImage() {
-        return image;
+    public String getPoster() {
+        return poster;
     }
 
     public String getUrl() {
