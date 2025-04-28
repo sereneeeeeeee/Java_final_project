@@ -10,7 +10,7 @@ public class Movie {
     private List<String> actors;
     private String overview;
     private String year;
-    private List<Integer> genre;
+    private List<String> genres;
 
     public String getTitle() {
         return title;
@@ -40,7 +40,7 @@ public class Movie {
         return year;
     }
 
-    public List<Integer> getGenre() {
-        return genre;
+    public List<String> getGenres() {
+        return genres;
     }
 }

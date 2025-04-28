@@ -70,46 +70,27 @@ public class MovieDatabaseSaver {
                     }
                 }
 
-                // genre ID 與名稱的對應表
-                Map<Integer, String> genreMap = Map.ofEntries(
-                        Map.entry(28, "Action"),
-                        Map.entry(12, "Adventure"),
-                        Map.entry(16, "Animation"),
-                        Map.entry(35, "Comedy"),
-                        Map.entry(80, "Crime"),
-                        Map.entry(99, "Documentary"),
-                        Map.entry(18, "Drama"),
-                        Map.entry(10751, "Family"),
-                        Map.entry(14, "Fantasy"),
-                        Map.entry(36, "History"),
-                        Map.entry(27, "Horror"),
-                        Map.entry(10402, "Music"),
-                        Map.entry(9648, "Mystery"),
-                        Map.entry(10749, "Romance"),
-                        Map.entry(878, "Science Fiction"),
-                        Map.entry(10770, "TV Movie"),
-                        Map.entry(53, "Thriller"),
-                        Map.entry(10752, "War"),
-                        Map.entry(37, "Western"));
-
                 // 插入分類
-                List<Integer> genres = movie.getGenre();
+                List<String> genres = movie.getGenres();
                 if (genres != null && !genres.isEmpty()) {
                     String insertGenreSQL = "INSERT INTO movie_genres (movie_id, genre_name) VALUES (?, ?)";
-                    for (Integer genreId : genres) {
-                        String genreName = genreMap.get(genreId); // 轉換為對應的名稱
-                        if (genreName != null) { // 確保 genreName 不為 null
+                    for (String genreName : genres) {
+                        if (genreName != null && !genreName.trim().isEmpty()) { // 確保 genreName 不為 null
                             try (PreparedStatement genreStmt = conn.prepareStatement(insertGenreSQL)) {
                                 genreStmt.setInt(1, movieId);
                                 genreStmt.setString(2, genreName);
                                 genreStmt.executeUpdate();
                             }
+                        } else {
+                            System.out.println("Skipped null or empty genre for movie: " + movie.getTitle());
                         }
                     }
+                } else {
+                    System.out.println("No genres to insert for movie: " + movie.getTitle());
                 }
             }
 
-            System.out.println("✅ 所有電影成功儲存到資料庫！");
+            System.out.println("所有電影成功儲存到資料庫！");
         } catch (Exception e) {
             e.printStackTrace();
         }
