@@ -12,6 +12,7 @@ public class Movie {
     private String year;
     private List<String> genres;
 
+    // Getter methods
     public String getTitle() {
         return title;
     }
@@ -42,5 +43,38 @@ public class Movie {
 
     public List<String> getGenres() {
         return genres;
+    }
+
+    // Setter methods
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public void setPoster(String poster) {
+        this.poster = poster;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public void setLink(String link) {
+        this.link = link;
+    }
+
+    public void setActors(List<String> actors) {
+        this.actors = actors;
+    }
+
+    public void setOverview(String overview) {
+        this.overview = overview;
+    }
+
+    public void setYear(String year) {
+        this.year = year;
+    }
+
+    public void setGenres(List<String> genres) {
+        this.genres = genres;
     }
 }

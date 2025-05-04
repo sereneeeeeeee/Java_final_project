@@ -1,6 +1,7 @@
 package movieSaveToDatabase;
 
 import java.sql.*;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -17,6 +18,15 @@ public class MovieDatabaseSaver {
 
             // 建立資料表
             Statement stmt = conn.createStatement();
+
+            stmt.executeUpdate("DELETE FROM movie_actors");
+            stmt.executeUpdate("DELETE FROM movie_genres");
+            stmt.executeUpdate("DELETE FROM movies");
+
+            stmt.executeUpdate("ALTER TABLE movies AUTO_INCREMENT = 1");
+            stmt.executeUpdate("ALTER TABLE movie_actors AUTO_INCREMENT = 1");
+            stmt.executeUpdate("ALTER TABLE movie_genres AUTO_INCREMENT = 1");
+
             stmt.executeUpdate("CREATE TABLE IF NOT EXISTS movies (" +
                     "id INT AUTO_INCREMENT PRIMARY KEY, " +
                     "title VARCHAR(255), " +
@@ -95,4 +105,57 @@ public class MovieDatabaseSaver {
             e.printStackTrace();
         }
     }
+
+    // 根據電影的 ID 查詢電影資訊
+    public static Movie getMovieById(int movieId) {
+        Movie movie = null;
+
+        try (Connection conn = DriverManager.getConnection(DB_URL, USER, PASSWORD)) {
+            // 1. 查主表：movies
+            String movieSQL = "SELECT * FROM movies WHERE id = ?"; // 選取 movies 表中所有欄位，*代表所有欄位
+            try (PreparedStatement movieStmt = conn.prepareStatement(movieSQL)) {
+                movieStmt.setInt(1, movieId);
+                ResultSet rs = movieStmt.executeQuery();
+
+                if (rs.next()) {
+                    movie = new Movie();
+                    movie.setTitle(rs.getString("title"));
+                    movie.setYear(rs.getString("year"));
+                    movie.setOverview(rs.getString("overview"));
+                    movie.setLink(rs.getString("link"));
+                    movie.setPoster(rs.getString("image"));
+
+                    // 2. 查演員表：movie_actors
+                    String actorSQL = "SELECT actor_name FROM movie_actors WHERE movie_id = ?";
+                    try (PreparedStatement actorStmt = conn.prepareStatement(actorSQL)) {
+                        actorStmt.setInt(1, movieId);
+                        ResultSet actorRs = actorStmt.executeQuery();
+
+                        List<String> actors = new ArrayList<>();
+                        while (actorRs.next()) {
+                            actors.add(actorRs.getString("actor_name"));
+                        }
+                        movie.setActors(actors);
+                    }
+
+                    // 3. 查類別表：movie_genres
+                    String genreSQL = "SELECT genre_name FROM movie_genres WHERE movie_id = ?";
+                    try (PreparedStatement genreStmt = conn.prepareStatement(genreSQL)) {
+                        genreStmt.setInt(1, movieId);
+                        ResultSet genreRs = genreStmt.executeQuery();
+
+                        List<String> genres = new ArrayList<>();
+                        while (genreRs.next()) {
+                            genres.add(genreRs.getString("genre_name"));
+                        }
+                        movie.setGenres(genres);
+                    }
+                }
+            }
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+        return movie;
+    }
+
 }

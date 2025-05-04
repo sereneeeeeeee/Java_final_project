@@ -1,13 +1,31 @@
 [
   {
+    "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him \u2014 and uncovers a dark conspiracy.",
+    "image": "https://image.tmdb.org/t/p/w500//qWTfHG8KdXwr0bqypYbNZLenh0J.jpg",
+    "actors": [
+      "Jeanne Goursaud",
+      "Dougray Scott",
+      "Lera Abova",
+      "Emanuel Fellmer",
+      "Annabelle Mandeng"
+    ],
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Action"
+    ],
+    "link": "https://www.themoviedb.org/movie/1233069",
+    "title": "Exterritorial"
+  },
+  {
     "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
     "image": "https://image.tmdb.org/t/p/w500//xUkUZ8eOnrOnnJAfusZUqKYZiDu.jpg",
     "actors": [
       "Jason Statham",
-      "David Harbour",
-      "Michael Peña",
       "Jason Flemyng",
-      "Arianna Rivas"
+      "Merab Ninidze",
+      "Maximilian Osinski",
+      "Cokey Falkow"
     ],
     "year": "2025",
     "genres": [
@@ -19,8 +37,23 @@
     "title": "A Working Man"
   },
   {
+    "overview": "In a career that lasted only ten years, Vincent Van Gogh painted one subject more than any other: himself. This is the story of Vincent told using eight of his most iconic self-portraits.",
+    "image": "https://image.tmdb.org/t/p/w500//z73X4WKZghBh5fri31o8P6vBEB2.jpg",
+    "actors": [
+      "Zahra Ahmadi",
+      "Jack Etchells",
+      "Adam Woolley",
+      "Frances Christie",
+      "Neil Lebeter"
+    ],
+    "year": "2025",
+    "genres": ["Documentary"],
+    "link": "https://www.themoviedb.org/movie/1471014",
+    "title": "Van Gogh by Vincent"
+  },
+  {
     "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
-    "image": "https://image.tmdb.org/t/p/w500//bEiJBcwdR4oOTCgstLkqTUja58p.jpg",
+    "image": "https://image.tmdb.org/t/p/w500//r46leE6PSzLR3pnVzaxx5Q30yUF.jpg",
     "actors": [
       "Tom Hardy",
       "Jessie Mei Li",
@@ -58,8 +91,45 @@
     "title": "A Minecraft Movie"
   },
   {
+    "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+    "image": "https://image.tmdb.org/t/p/w500//vnfgoohSwKNOcRfJOPULXTvX0cu.jpg",
+    "actors": [
+      "Florence Pugh",
+      "Sebastian Stan",
+      "Julia Louis-Dreyfus",
+      "Lewis Pullman",
+      "David Harbour"
+    ],
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "link": "https://www.themoviedb.org/movie/986056",
+    "title": "Thunderbolts*"
+  },
+  {
+    "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+    "image": "https://image.tmdb.org/t/p/w500//eujLbO0kf1eqWC8XpHUJdtAVW2J.jpg",
+    "actors": [
+      "Saif Ali Khan",
+      "Jaideep Ahlawat",
+      "Nikita Dutta",
+      "Kunal Kapoor",
+      "Kulbhushan Kharbanda"
+    ],
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/1225915",
+    "title": "Jewel Thief: The Heist Begins"
+  },
+  {
     "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
-    "image": "https://image.tmdb.org/t/p/w500//t6HJH3gXtUqVinyFKWi7Bjh73TM.jpg",
+    "image": "https://image.tmdb.org/t/p/w500//dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
     "actors": [
       "Milla Jovovich",
       "Dave Bautista",
@@ -69,68 +139,12 @@
     ],
     "year": "2025",
     "genres": [
+      "Action",
       "Fantasy",
-      "Adventure",
-      "Action"
+      "Adventure"
     ],
     "link": "https://www.themoviedb.org/movie/324544",
     "title": "In the Lost Lands"
-  },
-  {
-    "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
-    "image": "https://image.tmdb.org/t/p/w500//qkTKtOHK9JEEOHgPQZ0dFtzs5ML.jpg",
-    "actors": [
-      "Tsuyoshi Kusanagi",
-      "Kanata Hosoda",
-      "Non",
-      "Jun Kaname",
-      "Machiko Ono"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/1276073",
-    "title": "Bullet Train Explosion"
-  },
-  {
-    "overview": "International assassin Walker is compromised during a mission and sent to a reassignment center for a new identity. During his stay at the facility, a ruthless assault team storms the compound searching for someone their boss has lost. Walker begrudgingly falls in with skilled hitwoman Elda and her mysterious ward Juliet in order to survive the night.",
-    "image": "https://image.tmdb.org/t/p/w500//hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
-    "actors": [
-      "Daniel Stisen",
-      "Lauren Okadigbo",
-      "Yennis Cheung",
-      "Byron Gibson",
-      "Steven Blades"
-    ],
-    "year": "2023",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1092899",
-    "title": "The Siege"
-  },
-  {
-    "overview": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
-    "image": "https://image.tmdb.org/t/p/w500//S21BfLrJSD9njucBfY3CKqp8rD.jpg",
-    "actors": [
-      "Kellan Lutz",
-      "Cam Gigandet",
-      "Chad Michael Collins"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1180906",
-    "title": "Desert Dawn"
   },
   {
     "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
@@ -152,8 +166,78 @@
     "title": "Captain America: Brave New World"
   },
   {
+    "overview": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
+    "image": "https://image.tmdb.org/t/p/w500//S21BfLrJSD9njucBfY3CKqp8rD.jpg",
+    "actors": [
+      "Kellan Lutz",
+      "Cam Gigandet",
+      "Chad Michael Collins"
+    ],
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/1180906",
+    "title": "Desert Dawn"
+  },
+  {
+    "overview": "Put-upon lawman John Dorsey is on the verge of losing his wife and his job as sheriff, so he posses up with bullish U.S. Marshall Butch Hayden to hold outlaw Emily Rusk hostage. A battle of wills ensues as Emily turns the posse on themselves, but as her marauding husband and his gang approach, Emily and John realize they will need each other to survive.",
+    "image": "https://image.tmdb.org/t/p/w500//cVSjSQryFUERYSdOmdgJ2m0eBte.jpg",
+    "actors": [
+      "Zach Roerig",
+      "Billy Zane",
+      "Cara Jade Myers",
+      "Scott Adkins",
+      "Trace Adkins"
+    ],
+    "year": "2025",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "link": "https://www.themoviedb.org/movie/1414048",
+    "title": "Day of Reckoning"
+  },
+  {
+    "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature\u2019s miraculous curative properties.",
+    "image": "https://image.tmdb.org/t/p/w500//lXR32JepFwD1UHkplWqtBP1K79z.jpg",
+    "actors": [
+      "Jenna Ortega",
+      "Paul Rudd",
+      "Will Poulter",
+      "Richard E. Grant",
+      "Téa Leoni"
+    ],
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Fantasy",
+      "Comedy",
+      "Adventure"
+    ],
+    "link": "https://www.themoviedb.org/movie/1153714",
+    "title": "Death of a Unicorn"
+  },
+  {
+    "overview": "An orphaned girl is rescued from a satanic ritual and taken to Saint Catherine Institute for homeless youth. There she will learn new skills while facing demons that stalk her.",
+    "image": "https://image.tmdb.org/t/p/w500//hBJdzKPeDaC96AzlrtMWBomYSZV.jpg",
+    "actors": [
+      "Raymond E. Lee",
+      "Pachi Lucas",
+      "Julia Kraiselburd",
+      "Emilia Mayo"
+    ],
+    "year": "2025",
+    "genres": ["Horror"],
+    "link": "https://www.themoviedb.org/movie/1356236",
+    "title": "Saint Catherine"
+  },
+  {
     "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-    "image": "https://image.tmdb.org/t/p/w500//fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg",
+    "image": "https://image.tmdb.org/t/p/w500//jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
     "actors": [
       "Michael B. Jordan",
       "Miles Caton",
@@ -163,50 +247,235 @@
     ],
     "year": "2025",
     "genres": [
-      "Action",
       "Horror",
+      "Music",
       "Thriller"
     ],
     "link": "https://www.themoviedb.org/movie/1233413",
     "title": "Sinners"
   },
   {
-    "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
-    "image": "https://image.tmdb.org/t/p/w500//l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
+    "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+    "image": "https://image.tmdb.org/t/p/w500//yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
     "actors": [
-      "Ralph Fiennes",
-      "Stanley Tucci",
-      "John Lithgow",
-      "Isabella Rossellini",
-      "Lucian Msamati"
-    ],
-    "year": "2024",
-    "genres": [
-      "Drama",
-      "Thriller",
-      "Mystery"
-    ],
-    "link": "https://www.themoviedb.org/movie/974576",
-    "title": "Conclave"
-  },
-  {
-    "overview": "A woman wakes up on a distant planet and finds the crew of her space station viciously killed. Her investigation into what happened sets in motion a terrifying chain of events.",
-    "image": "https://image.tmdb.org/t/p/w500//5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
-    "actors": [
-      "Eiza González",
-      "Aaron Paul",
-      "Iko Uwais",
-      "Kate Elliott",
-      "Beulah Koale"
+      "Theo James",
+      "Tatiana Maslany",
+      "Christian Convery",
+      "Colin O'Brien",
+      "Adam Scott"
     ],
     "year": "2025",
     "genres": [
-      "Science Fiction",
       "Horror",
+      "Comedy"
+    ],
+    "link": "https://www.themoviedb.org/movie/1124620",
+    "title": "The Monkey"
+  },
+  {
+    "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+    "image": "https://image.tmdb.org/t/p/w500//uxYMN7egzwU9dQWmlm9tVTVpBbe.jpg",
+    "actors": [
+      "Tsuyoshi Kusanagi",
+      "Kanata Hosoda",
+      "Non",
+      "Jun Kaname",
+      "Machiko Ono"
+    ],
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime",
+      "Drama"
+    ],
+    "link": "https://www.themoviedb.org/movie/1276073",
+    "title": "Bullet Train Explosion"
+  },
+  {
+    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+    "image": "https://image.tmdb.org/t/p/w500//vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "actors": [
+      "Tom Skerritt",
+      "Sigourney Weaver",
+      "Veronica Cartwright",
+      "Harry Dean Stanton",
+      "John Hurt"
+    ],
+    "year": "1979",
+    "genres": [
+      "Horror",
+      "Science Fiction"
+    ],
+    "link": "https://www.themoviedb.org/movie/348",
+    "title": "Alien"
+  },
+  {
+    "overview": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "image": "https://image.tmdb.org/t/p/w500//aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+    "actors": [
+      "Robert De Niro",
+      "Ray Liotta",
+      "Joe Pesci",
+      "Lorraine Bracco",
+      "Paul Sorvino"
+    ],
+    "year": "1990",
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "link": "https://www.themoviedb.org/movie/769",
+    "title": "GoodFellas"
+  },
+  {
+    "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
+    "image": "https://image.tmdb.org/t/p/w500//zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+    "actors": [
+      "Anna Kendrick",
+      "Blake Lively",
+      "Michele Morrone",
+      "Henry Golding",
+      "Allison Janney"
+    ],
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Comedy",
+      "Crime"
+    ],
+    "link": "https://www.themoviedb.org/movie/974573",
+    "title": "Another Simple Favor"
+  },
+  {
+    "overview": "The story follows Carol Danvers as she becomes one of the universe\u2019s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.",
+    "image": "https://image.tmdb.org/t/p/w500//AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg",
+    "actors": [
+      "Brie Larson",
+      "Samuel L. Jackson",
+      "Ben Mendelsohn",
+      "Jude Law",
+      "Annette Bening"
+    ],
+    "year": "2019",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "link": "https://www.themoviedb.org/movie/299537",
+    "title": "Captain Marvel"
+  },
+  {
+    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+    "image": "https://image.tmdb.org/t/p/w500//gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+    "actors": [
+      "Ryan Gosling",
+      "Harrison Ford",
+      "Ana de Armas",
+      "Dave Bautista",
+      "Robin Wright"
+    ],
+    "year": "2017",
+    "genres": [
+      "Science Fiction",
+      "Drama"
+    ],
+    "link": "https://www.themoviedb.org/movie/335984",
+    "title": "Blade Runner 2049"
+  },
+  {
+    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+    "image": "https://image.tmdb.org/t/p/w500//v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "actors": [
+      "Gal Gadot",
+      "Chris Pine",
+      "Connie Nielsen",
+      "Robin Wright",
+      "Danny Huston"
+    ],
+    "year": "2017",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "link": "https://www.themoviedb.org/movie/297762",
+    "title": "Wonder Woman"
+  },
+  {
+    "overview": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+    "image": "https://image.tmdb.org/t/p/w500//kwB7d51AIcyzPOBOHLCEZJkmPhQ.jpg",
+    "actors": [
+      "Scarlett Johansson",
+      "Florence Pugh",
+      "Rachel Weisz",
+      "David Harbour",
+      "Ray Winstone"
+    ],
+    "year": "2021",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ],
+    "link": "https://www.themoviedb.org/movie/497698",
+    "title": "Black Widow"
+  },
+  {
+    "overview": "International assassin Walker is compromised during a mission and sent to a reassignment center for a new identity. During his stay at the facility, a ruthless assault team storms the compound searching for someone their boss has lost. Walker begrudgingly falls in with skilled hitwoman Elda and her mysterious ward Juliet in order to survive the night.",
+    "image": "https://image.tmdb.org/t/p/w500//hVh4hMzkXNLnScudbid6hDvjMPk.jpg",
+    "actors": [
+      "Daniel Stisen",
+      "Lauren Okadigbo",
+      "Yennis Cheung",
+      "Byron Gibson",
+      "Steven Blades"
+    ],
+    "year": "2023",
+    "genres": [
+      "Action",
       "Thriller"
     ],
-    "link": "https://www.themoviedb.org/movie/931349",
-    "title": "Ash"
+    "link": "https://www.themoviedb.org/movie/1092899",
+    "title": "The Siege"
+  },
+  {
+    "overview": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
+    "image": "https://image.tmdb.org/t/p/w500//dS2S5lpfgRIRQOb7LDCjNsQqKjp.jpg",
+    "actors": [
+      "Meghann Fahy",
+      "Brandon Sklenar",
+      "Violett Beane",
+      "Jacob Robinson",
+      "Reed Diamond"
+    ],
+    "year": "2025",
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/1249213",
+    "title": "Drop"
+  },
+  {
+    "overview": "Stephanie and Emily reunite on the beautiful island of Capri, Italy for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square.",
+    "image": "https://image.tmdb.org/t/p/w500//zboCGZ4aIqPMd7VFI4HWnmc7KYJ.jpg",
+    "actors": [
+      "Anna Kendrick",
+      "Blake Lively",
+      "Michele Morrone",
+      "Henry Golding",
+      "Allison Janney"
+    ],
+    "year": "2025",
+    "genres": [
+      "Thriller",
+      "Comedy",
+      "Crime"
+    ],
+    "link": "https://www.themoviedb.org/movie/974573",
+    "title": "Another Simple Favor"
   },
   {
     "overview": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
@@ -247,76 +516,79 @@
     "title": "Novocaine"
   },
   {
-    "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
-    "image": "https://image.tmdb.org/t/p/w500//yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+    "overview": "Sonu Model, a renowned beautician from the old city, is forced to disguise himself as Laila, leading to a series of comedic, romantic, and action-packed events. Chaos ensues in this hilarious laugh riot",
+    "image": "https://image.tmdb.org/t/p/w500//l4gsNxFPGpzbq0D6QK1a8vO1lBz.jpg",
     "actors": [
-      "Theo James",
-      "Tatiana Maslany",
-      "Christian Convery",
-      "Colin O'Brien",
-      "Adam Scott"
+      "Vishwak Sen",
+      "Akanksha Sharma",
+      "Babloo Prithiveeraj",
+      "Abhimanyu Singh",
+      "Vineet Kumar"
     ],
     "year": "2025",
     "genres": [
-      "Horror",
-      "Comedy"
+      "Comedy",
+      "Romance"
     ],
-    "link": "https://www.themoviedb.org/movie/1124620",
-    "title": "The Monkey"
+    "link": "https://www.themoviedb.org/movie/1403735",
+    "title": "Laila"
   },
   {
-    "overview": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
-    "image": "https://image.tmdb.org/t/p/w500//hhkiqXpfpufwxVrdSftzeKIANl3.jpg",
+    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "image": "https://image.tmdb.org/t/p/w500//lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
     "actors": [
-      "Bill Skarsgård",
-      "Anthony Hopkins",
-      "Ashley Cartwright",
-      "Michael Eklund",
-      "Navid Charkhi"
+      "Aaron Pierre",
+      "Kelvin Harrison, Jr.",
+      "Tiffany Boone",
+      "Kagiso Lediga",
+      "Preston Nyman"
     ],
-    "year": "2025",
+    "year": "2024",
     "genres": [
-      "Horror",
-      "Thriller"
+      "Adventure",
+      "Family",
+      "Animation"
     ],
-    "link": "https://www.themoviedb.org/movie/1083968",
-    "title": "Locked"
+    "link": "https://www.themoviedb.org/movie/762509",
+    "title": "Mufasa: The Lion King"
   },
   {
-    "overview": "In the aftermath of her husband's death, widow Ramona's struggle to raise her two kids is hindered by the arrival of a mysterious woman with supernatural abilities.",
-    "image": "https://image.tmdb.org/t/p/w500//n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
+    "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+    "image": "https://image.tmdb.org/t/p/w500//kMDUS7VmFhb2coRfVBoGLR8ADBt.jpg",
     "actors": [
-      "Danielle Deadwyler",
-      "Okwui Okpokwasili",
-      "Peyton Jackson",
-      "Estella Kahiha",
-      "Russell Hornsby"
+      "Ben Affleck",
+      "Jon Bernthal",
+      "Cynthia Addai-Robinson",
+      "J.K. Simmons",
+      "Daniella Pineda"
     ],
     "year": "2025",
     "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "link": "https://www.themoviedb.org/movie/1244944",
-    "title": "The Woman in the Yard"
-  },
-  {
-    "overview": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king\u2019s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
-    "image": "https://image.tmdb.org/t/p/w500//O7REXWPANWXvX2jhQydHjAq2DV.jpg",
-    "actors": [
-      "Stephen Dorff",
-      "Heather Graham",
-      "Nicolas Cage",
-      "Randall Batinkoff",
-      "Cooper Barnes"
-    ],
-    "year": "2025",
-    "genres": [
-      "Western",
+      "Crime",
+      "Thriller",
       "Action"
     ],
-    "link": "https://www.themoviedb.org/movie/1293286",
-    "title": "Gunslingers"
+    "link": "https://www.themoviedb.org/movie/870028",
+    "title": "The Accountant²"
+  },
+  {
+    "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church\u2019s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+    "image": "https://image.tmdb.org/t/p/w500//l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
+    "actors": [
+      "Ralph Fiennes",
+      "Stanley Tucci",
+      "John Lithgow",
+      "Isabella Rossellini",
+      "Lucian Msamati"
+    ],
+    "year": "2024",
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "link": "https://www.themoviedb.org/movie/974576",
+    "title": "Conclave"
   },
   {
     "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
@@ -339,23 +611,58 @@
     "title": "Moana 2"
   },
   {
-    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
-    "image": "https://image.tmdb.org/t/p/w500//lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+    "overview": "Vampire death dealer Selene fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.",
+    "image": "https://image.tmdb.org/t/p/w500//v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg",
     "actors": [
-      "Aaron Pierre",
-      "Kelvin Harrison, Jr.",
-      "Tiffany Boone",
-      "Kagiso Lediga",
-      "Preston Nyman"
+      "Kate Beckinsale",
+      "Theo James",
+      "Tobias Menzies",
+      "Lara Pulver",
+      "Bradley James"
     ],
-    "year": "2024",
+    "year": "2016",
     "genres": [
-      "Adventure",
-      "Family",
-      "Animation"
+      "Fantasy",
+      "Action",
+      "Thriller",
+      "Science Fiction"
     ],
-    "link": "https://www.themoviedb.org/movie/762509",
-    "title": "Mufasa: The Lion King"
+    "link": "https://www.themoviedb.org/movie/346672",
+    "title": "Underworld: Blood Wars"
+  },
+  {
+    "overview": "A woman wakes up on a distant planet and finds the crew of her space station viciously killed. Her investigation into what happened sets in motion a terrifying chain of events.",
+    "image": "https://image.tmdb.org/t/p/w500//5Oz39iyRuztiA8XqCNVDBuy2Ut3.jpg",
+    "actors": [
+      "Eiza González",
+      "Aaron Paul",
+      "Iko Uwais",
+      "Kate Elliott",
+      "Beulah Koale"
+    ],
+    "year": "2025",
+    "genres": [
+      "Science Fiction",
+      "Horror",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/931349",
+    "title": "Ash"
+  },
+  {
+    "overview": "A serial rapist rapes a girl with mental disability for wearing a red dress, which triggers him. Now the girl's social worker vows to get revenge on the rapist.",
+    "image": "https://image.tmdb.org/t/p/w500//uCSairsy6ZtiH8dbWWLKOsj1giP.jpg",
+    "actors": [
+      "Lily Chung Suk-Wai",
+      "Money Lo Man-Yee",
+      "Ben Ng Ngai-Cheung",
+      "Bobby Yip Kin-Sang",
+      "Hui Sze-Man"
+    ],
+    "year": "1994",
+    "genres": ["Horror"],
+    "link": "https://www.themoviedb.org/movie/39843",
+    "title": "Red to Kill"
   },
   {
     "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
@@ -378,695 +685,207 @@
     "title": "Sonic the Hedgehog 3"
   },
   {
-    "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
-    "image": "https://image.tmdb.org/t/p/w500//7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    "overview": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+    "image": "https://image.tmdb.org/t/p/w500//n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
     "actors": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Chris Hemsworth",
-      "Josh Brolin",
-      "Mark Ruffalo"
-    ],
-    "year": "2018",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/299536",
-    "title": "Avengers: Infinity War"
-  },
-  {
-    "overview": "A newly appointed small-town sheriff and his begrudging deputy get tangled up in a web of lies and corruption involving shady businessmen and the cartel while investigating the murder of a mysterious woman.",
-    "image": "https://image.tmdb.org/t/p/w500//S21BfLrJSD9njucBfY3CKqp8rD.jpg",
-    "actors": [
-      "Kellan Lutz",
-      "Cam Gigandet",
-      "Chad Michael Collins"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1180906",
-    "title": "Desert Dawn"
-  },
-  {
-    "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Treasury Agent Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
-    "image": "https://image.tmdb.org/t/p/w500//ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
-    "actors": [
-      "Ben Affleck",
-      "Jon Bernthal",
-      "Cynthia Addai-Robinson",
-      "J.K. Simmons",
-      "Daniella Pineda"
-    ],
-    "year": "2025",
-    "genres": [
-      "Crime",
-      "Thriller",
-      "Action"
-    ],
-    "link": "https://www.themoviedb.org/movie/870028",
-    "title": "The Accountant 2"
-  },
-  {
-    "overview": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-    "image": "https://image.tmdb.org/t/p/w500//c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-    "actors": [
-      "Tom Holland",
-      "Michael Keaton",
-      "Robert Downey Jr.",
-      "Marisa Tomei",
-      "Jon Favreau"
-    ],
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/315635",
-    "title": "Spider-Man: Homecoming"
-  },
-  {
-    "overview": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother\u2014and former heir to the throne\u2014has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.",
-    "image": "https://image.tmdb.org/t/p/w500//dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
-    "actors": [
-      "Chiwetel Ejiofor",
-      "John Oliver",
-      "Donald Glover",
-      "James Earl Jones",
-      "John Kani"
-    ],
-    "year": "2019",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Family",
-      "Animation"
-    ],
-    "link": "https://www.themoviedb.org/movie/420818",
-    "title": "The Lion King"
-  },
-  {
-    "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
-    "image": "https://image.tmdb.org/t/p/w500//edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
-    "actors": [
-      "Robert Pattinson",
-      "Naomi Ackie",
-      "Steven Yeun",
-      "Mark Ruffalo",
-      "Toni Collette"
-    ],
-    "year": "2025",
-    "genres": [
-      "Science Fiction",
-      "Comedy",
-      "Adventure"
-    ],
-    "link": "https://www.themoviedb.org/movie/696506",
-    "title": "Mickey 17"
-  },
-  {
-    "overview": "A live-action adaptation of Disney's version of the classic tale of a cursed prince and a beautiful young woman who helps him break the spell.",
-    "image": "https://image.tmdb.org/t/p/w500//hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
-    "actors": [
-      "Emma Watson",
-      "Dan Stevens",
-      "Luke Evans",
-      "Josh Gad",
-      "Kevin Kline"
-    ],
-    "year": "2017",
-    "genres": [
-      "Family",
-      "Fantasy",
-      "Romance"
-    ],
-    "link": "https://www.themoviedb.org/movie/321612",
-    "title": "Beauty and the Beast"
-  },
-  {
-    "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-    "image": "https://image.tmdb.org/t/p/w500//6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
-    "actors": [
-      "Mark Hamill",
-      "Harrison Ford",
-      "Carrie Fisher",
-      "Peter Cushing",
-      "Alec Guinness"
-    ],
-    "year": "1977",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/11",
-    "title": "Star Wars"
-  },
-  {
-    "overview": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
-    "image": "https://image.tmdb.org/t/p/w500//y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
-    "actors": [
-      "Chris Pratt",
-      "Zoe Saldaña",
-      "Dave Bautista",
-      "Vin Diesel",
-      "Bradley Cooper"
-    ],
-    "year": "2017",
-    "genres": [
-      "Science Fiction",
-      "Adventure",
-      "Action"
-    ],
-    "link": "https://www.themoviedb.org/movie/283995",
-    "title": "Guardians of the Galaxy Vol. 2"
-  },
-  {
-    "overview": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.",
-    "image": "https://image.tmdb.org/t/p/w500//kOVEVeg59E0wsnXmF9nrh6OmWII.jpg",
-    "actors": [
-      "Mark Hamill",
-      "Carrie Fisher",
-      "Adam Driver",
-      "Daisy Ridley",
-      "John Boyega"
-    ],
-    "year": "2017",
-    "genres": [
-      "Adventure",
-      "Action",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/181808",
-    "title": "Star Wars: The Last Jedi"
-  },
-  {
-    "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her younger brother.",
-    "image": "https://image.tmdb.org/t/p/w500//mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
-    "actors": [
-      "Daisy Ridley",
-      "Clive Owen",
-      "Taz Skylar",
-      "Flavia Watson",
-      "Ray Fearon"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1125899",
-    "title": "Cleaner"
-  },
-  {
-    "overview": "War stories about family, ethics and honor include the true story of two U.S. Marines who in a span of six seconds, must stand their ground to stop a suicide truck bomb, a Navy Corpsman who attempts to hold on to his humanity, and a WW2 soldier who gets separated from his squad and is forced to re-evaluate his code.",
-    "image": "https://image.tmdb.org/t/p/w500//oXeiQAfRK90pxxhP5iKPXQqAIN1.jpg",
-    "actors": [
-      "Noah Gray-Cabey",
-      "Michael Grant"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "War"
-    ],
-    "link": "https://www.themoviedb.org/movie/1373723",
-    "title": "The Codes of War"
-  },
-  {
-    "overview": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-    "image": "https://image.tmdb.org/t/p/w500//gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
-    "actors": [
-      "Ryan Gosling",
-      "Harrison Ford",
-      "Ana de Armas",
-      "Dave Bautista",
-      "Robin Wright"
-    ],
-    "year": "2017",
-    "genres": [
-      "Science Fiction",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/335984",
-    "title": "Blade Runner 2049"
-  },
-  {
-    "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City\u2019s own formidable, forceful vigilante takes on Metropolis\u2019s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it\u2019s ever known before.",
-    "image": "https://image.tmdb.org/t/p/w500//5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
-    "actors": [
-      "Ben Affleck",
-      "Henry Cavill",
       "Jesse Eisenberg",
-      "Gal Gadot",
-      "Amy Adams"
+      "Andrew Garfield",
+      "Armie Hammer",
+      "Josh Pence",
+      "Justin Timberlake"
     ],
-    "year": "2016",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "link": "https://www.themoviedb.org/movie/209112",
-    "title": "Batman v Superman: Dawn of Justice"
+    "year": "2010",
+    "genres": ["Drama"],
+    "link": "https://www.themoviedb.org/movie/37799",
+    "title": "The Social Network"
   },
   {
-    "overview": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
-    "image": "https://image.tmdb.org/t/p/w500//r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+    "overview": "Remi and Barnes, two very different teenagers, meet by chance in the winter of their senior year, then spend four  days together over the course of a year that will change their lives forever.",
+    "image": "https://image.tmdb.org/t/p/w500//mEPi5ISa5RmzpzeDfwkhX0CcNsf.jpg",
     "actors": [
-      "Tom Hiddleston",
-      "Samuel L. Jackson",
-      "John Goodman",
-      "Brie Larson",
-      "Jing Tian"
-    ],
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "link": "https://www.themoviedb.org/movie/293167",
-    "title": "Kong: Skull Island"
-  },
-  {
-    "overview": "When a city is overrun with a demonically-possessed crowd, a cop must find the source of evil to save his family.",
-    "image": "https://image.tmdb.org/t/p/w500//9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",
-    "actors": [
-      "Michele Morrone",
-      "William Moseley",
-      "Urassaya Sperbund",
-      "Alexander",
-      "Ting Sue"
-    ],
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Fantasy",
-      "Thriller",
-      "Mystery",
-      "Action"
-    ],
-    "link": "https://www.themoviedb.org/movie/1353117",
-    "title": "Home Sweet Home: Rebirth"
-  },
-  {
-    "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
-    "image": "https://image.tmdb.org/t/p/w500//k82T5L1utX1G2LhNWeza9nGUKPk.jpg",
-    "actors": [
-      "Gabriela Andrada",
-      "Mario Ermito",
-      "Celia Freijeiro",
-      "David Solans",
-      "Alba Ribas"
+      "Jenna Ortega",
+      "Percy Hynes White",
+      "Adam Rodriguez",
+      "Marisol Nichols",
+      "Elias Kacavas"
     ],
     "year": "2024",
     "genres": [
       "Romance",
+      "Comedy",
       "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/1252309",
-    "title": "Ask Me What You Want"
+    "link": "https://www.themoviedb.org/movie/1059073",
+    "title": "Winter Spring Summer or Fall"
   },
   {
-    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
-    "image": "https://image.tmdb.org/t/p/w500//hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+    "overview": "A woman discovers that severe catastrophic events are somehow connected to the mental breakdown from which she's suffering.",
+    "image": "https://image.tmdb.org/t/p/w500//4VOyofBd1pexblxtDZYtYIk7NI4.jpg",
     "actors": [
-      "Arnold Schwarzenegger",
-      "Michael Biehn",
-      "Linda Hamilton",
-      "Paul Winfield",
-      "Lance Henriksen"
+      "Anne Hathaway",
+      "Jason Sudeikis",
+      "Austin Stowell",
+      "Tim Blake Nelson",
+      "Dan Stevens"
     ],
-    "year": "1984",
+    "year": "2017",
     "genres": [
-      "Action",
-      "Thriller",
+      "Drama",
+      "Fantasy",
       "Science Fiction"
     ],
-    "link": "https://www.themoviedb.org/movie/218",
-    "title": "The Terminator"
+    "link": "https://www.themoviedb.org/movie/339967",
+    "title": "Colossal"
   },
   {
-    "overview": "A woman must protect her small town from the Jackalope (based on the mythical rabbit-antelope creature of North American folklore) and his army of devilish bunnies as they embark on a murder spree over the Easter weekend.",
-    "image": "https://image.tmdb.org/t/p/w500//8tGYZlPttiOjEe61GvszRcrnpEi.jpg",
+    "overview": "Twelve-year-old Dre Parker could have been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "image": "https://image.tmdb.org/t/p/w500//qV8xTWfknTOSErSa0b9Iay2QztS.jpg",
     "actors": [
-      "Diane Foster",
-      "Kelly Grant",
-      "Allison Lobel",
-      "Zuri Starks",
-      "D'Andre Noiré"
+      "Jaden Smith",
+      "Jackie Chan",
+      "Taraji P. Henson",
+      "Wenwen Han",
+      "Wang ZhenWei"
+    ],
+    "year": "2010",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Family"
+    ],
+    "link": "https://www.themoviedb.org/movie/38575",
+    "title": "The Karate Kid"
+  },
+  {
+    "overview": "After a terrifying storm destroys their home, a speedy sloth named Laura and her kooky family move to the big city in their rusted old food truck, Gordito, hoping to make their business a success. The family's delicious food catches the eye of a quick-witted cheetah who will stop at nothing to revive her failing fast-food business.",
+    "image": "https://image.tmdb.org/t/p/w500//toBN1A9AnhoUzXyu9gaVyQVJehp.jpg",
+    "actors": [
+      "Teo Vergara",
+      "Olivia Vasquez",
+      "Benjamín Gorroño",
+      "Facundo Hache Herrera",
+      "Remy Hii"
     ],
     "year": "2024",
     "genres": [
-      "Horror",
+      "Animation",
+      "Family"
+    ],
+    "link": "https://www.themoviedb.org/movie/1189423",
+    "title": "The Sloth Lane"
+  },
+  {
+    "overview": "When the most wanted man in America surfaces in a small Kentucky town, his violent history -- and a blood-thirsty mob seeking vengeance and a king\u2019s ransom -- soon follow. As brothers face off against one another and bullets tear the town to shreds, this lightning-fast gunslinger makes his enemies pay the ultimate price for their greed.",
+    "image": "https://image.tmdb.org/t/p/w500//O7REXWPANWXvX2jhQydHjAq2DV.jpg",
+    "actors": [
+      "Stephen Dorff",
+      "Heather Graham",
+      "Nicolas Cage",
+      "Randall Batinkoff",
+      "Cooper Barnes"
+    ],
+    "year": "2025",
+    "genres": [
+      "Western",
+      "Action"
+    ],
+    "link": "https://www.themoviedb.org/movie/1293286",
+    "title": "Gunslingers"
+  },
+  {
+    "overview": "Rachel Watson, devastated by her recent divorce, spends her daily commute fantasizing about the seemingly perfect couple who live in a house that her train passes every day, until one morning she sees something shocking happen there and becomes entangled in the mystery that unfolds.",
+    "image": "https://image.tmdb.org/t/p/w500//AhTO2QWG0tug7yDoh0XoaMhPt3J.jpg",
+    "actors": [
+      "Emily Blunt",
+      "Rebecca Ferguson",
+      "Haley Bennett",
+      "Justin Theroux",
+      "Luke Evans"
+    ],
+    "year": "2016",
+    "genres": [
+      "Thriller",
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "link": "https://www.themoviedb.org/movie/346685",
+    "title": "The Girl on the Train"
+  },
+  {
+    "overview": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+    "image": "https://image.tmdb.org/t/p/w500//wM9ErA8UVdcce5P4oefQinN8VVV.jpg",
+    "actors": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald",
+      "Anthony Michael Hall",
+      "Ally Sheedy"
+    ],
+    "year": "1985",
+    "genres": [
       "Comedy",
-      "Fantasy"
+      "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/1201176",
-    "title": "Easter Bloody Easter"
+    "link": "https://www.themoviedb.org/movie/2108",
+    "title": "The Breakfast Club"
   },
   {
-    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-    "image": "https://image.tmdb.org/t/p/w500//vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+    "image": "https://image.tmdb.org/t/p/w500//fceheXB5fC4WrLVuWJ6OZv9FXYr.jpg",
     "actors": [
-      "Tom Skerritt",
-      "Sigourney Weaver",
-      "Veronica Cartwright",
-      "Harry Dean Stanton",
-      "John Hurt"
+      "Ben Affleck",
+      "Cynthia Addai-Robinson",
+      "Anna Kendrick",
+      "J.K. Simmons",
+      "Jon Bernthal"
     ],
-    "year": "1979",
+    "year": "2016",
     "genres": [
-      "Horror",
-      "Science Fiction"
+      "Crime",
+      "Thriller",
+      "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/348",
-    "title": "Alien"
+    "link": "https://www.themoviedb.org/movie/302946",
+    "title": "The Accountant"
   },
   {
-    "overview": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
-    "image": "https://image.tmdb.org/t/p/w500//vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+    "overview": "In the aftermath of her husband's death, widow Ramona's struggle to raise her two kids is hindered by the arrival of a mysterious woman with supernatural abilities.",
+    "image": "https://image.tmdb.org/t/p/w500//n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",
     "actors": [
-      "Tom Skerritt",
-      "Sigourney Weaver",
-      "Veronica Cartwright",
-      "Harry Dean Stanton",
-      "John Hurt"
-    ],
-    "year": "1979",
-    "genres": [
-      "Horror",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/348",
-    "title": "Alien"
-  },
-  {
-    "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one\u2026only to wake up and find themselves back at the beginning of the same evening.",
-    "image": "https://image.tmdb.org/t/p/w500//6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
-    "actors": [
-      "Ella Rubin",
-      "Michael Cimino",
-      "Odessa A'zion",
-      "Ji-young Yoo",
-      "Belmont Cameli"
+      "Danielle Deadwyler",
+      "Okwui Okpokwasili",
+      "Peyton Jackson",
+      "Estella Kahiha",
+      "Russell Hornsby"
     ],
     "year": "2025",
     "genres": [
       "Horror",
       "Mystery"
     ],
-    "link": "https://www.themoviedb.org/movie/1232546",
-    "title": "Until Dawn"
+    "link": "https://www.themoviedb.org/movie/1244944",
+    "title": "The Woman in the Yard"
   },
   {
-    "overview": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
-    "image": "https://image.tmdb.org/t/p/w500//v4ncgZjG2Zu8ZW5al1vIZTsSjqX.jpg",
+    "overview": "65 million years ago, the only 2 survivors of a spaceship from Somaris that crash-landed on Earth, must fend off dinosaurs to reach the escape vessel in time before an imminent asteroid strike threatens to destroy the planet.",
+    "image": "https://image.tmdb.org/t/p/w500//rzRb63TldOKdKydCvWJM8B6EkPM.jpg",
     "actors": [
-      "Gal Gadot",
-      "Chris Pine",
-      "Connie Nielsen",
-      "Robin Wright",
-      "Danny Huston"
+      "Adam Driver",
+      "Ariana Greenblatt",
+      "Chloe Coleman",
+      "Nika King",
+      "Brian Dare"
     ],
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "link": "https://www.themoviedb.org/movie/297762",
-    "title": "Wonder Woman"
-  },
-  {
-    "overview": "By day, they're invisible\u2014valets, hostesses, and bartenders at a luxury hotel. By night, they're the Carjackers, a crew of skilled drivers who track and rob wealthy clients on the road. As they plan their ultimate heist, the hotel director hires a ruthless hitman, to stop them at all costs. With danger closing in, can Nora, Zoe, Steve, and Prestance pull off their biggest score yet?",
-    "image": "https://image.tmdb.org/t/p/w500//wbkPMTz2vVai7Ujyp0ag7AM9SrO.jpg",
-    "actors": [
-      "Zoé Marchal",
-      "Franck Gastambide",
-      "Bosh",
-      "Mareva Ranarivelo",
-      "Alassane Diong"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "link": "https://www.themoviedb.org/movie/1229730",
-    "title": "Carjackers"
-  },
-  {
-    "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
-    "image": "https://image.tmdb.org/t/p/w500//q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
-    "actors": [
-      "Mark Wahlberg",
-      "Michelle Dockery",
-      "Topher Grace",
-      "Leah Remini",
-      "Maaz Ali"
-    ],
-    "year": "2025",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1126166",
-    "title": "Flight Risk"
-  },
-  {
-    "overview": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbour of Dunkirk between May 26th and June 4th 1940 during World War II.",
-    "image": "https://image.tmdb.org/t/p/w500//b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
-    "actors": [
-      "Fionn Whitehead",
-      "Tom Hardy",
-      "Mark Rylance",
-      "Kenneth Branagh",
-      "Cillian Murphy"
-    ],
-    "year": "2017",
-    "genres": [
-      "War",
-      "Action",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/374720",
-    "title": "Dunkirk"
-  },
-  {
-    "overview": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
-    "image": "https://image.tmdb.org/t/p/w500//tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg",
-    "actors": [
-      "Soufiane Moussouli",
-      "Admir Šehović",
-      "Emmanuel Ohene Boafo",
-      "Fockeline Ouwerkerk",
-      "Roosmarijn van der Hoek"
-    ],
-    "year": "2025",
-    "genres": [
-      "Thriller",
-      "Crime",
-      "Drama"
-    ],
-    "link": "https://www.themoviedb.org/movie/1371202",
-    "title": "iHostage"
-  },
-  {
-    "overview": "When her teen daughter displays increasingly disturbing behavior after a near death experience, a mother becomes convinced the girl brought something evil back from the other side.",
-    "image": "https://image.tmdb.org/t/p/w500//by3EEDIVTdhNJolYK2Msn1RHRFH.jpg",
-    "actors": [
-      "Connie Britton",
-      "Giovanni Cirfiera",
-      "Tommaso Basili",
-      "Babetida Sadjo",
-      "Syama Rayner"
-    ],
-    "year": "2024",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/1096838",
-    "title": "Here After"
-  },
-  {
-    "overview": "Two highly-trained operatives are appointed to posts in guard towers on opposite sides of a vast and highly classified gorge, protecting the world from an undisclosed, mysterious evil that lurks within. They bond from a distance while trying to stay vigilant in defending against an unseen enemy. When the cataclysmic threat to humanity is revealed to them, they must work together in a test of both their physical and mental strength to keep the secret in the gorge before it\u2019s too late.",
-    "image": "https://image.tmdb.org/t/p/w500//7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
-    "actors": [
-      "Miles Teller",
-      "Anya Taylor-Joy",
-      "Sigourney Weaver",
-      "Sope Dirisu",
-      "William Houston"
-    ],
-    "year": "2025",
-    "genres": [
-      "Romance",
-      "Science Fiction",
-      "Thriller"
-    ],
-    "link": "https://www.themoviedb.org/movie/950396",
-    "title": "The Gorge"
-  },
-  {
-    "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
-    "image": "https://image.tmdb.org/t/p/w500//cCTJPelKGLhALq3r51A9uMonxKj.jpg",
-    "actors": [
-      "Sophie Turner",
-      "James McAvoy",
-      "Nicholas Hoult",
-      "Tye Sheridan",
-      "Michael Fassbender"
-    ],
-    "year": "2019",
-    "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
-    ],
-    "link": "https://www.themoviedb.org/movie/320288",
-    "title": "Dark Phoenix"
-  },
-  {
-    "overview": "An enterprising Sugar Baby is offered $30,000 to move in with her Sugar Daddy for the week, but soon discovers the sinister secrets trapped within his home.",
-    "image": "https://image.tmdb.org/t/p/w500//z7NyxmdJ1ypn3Y6BVizjGODuBdO.jpg",
-    "actors": [
-      "Mary Beth Barone",
-      "Nina Bloomgarden",
-      "James Tupper",
-      "Theo Germaine",
-      "Paige Collins"
-    ],
-    "year": "2024",
-    "genres": [
-      "Thriller",
-      "Comedy"
-    ],
-    "link": "https://www.themoviedb.org/movie/1101401",
-    "title": "Sugar Baby"
-  },
-  {
-    "overview": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
-    "image": "https://image.tmdb.org/t/p/w500//uxzzxijgPIY7slzFvMotPv8wjKA.jpg",
-    "actors": [
-      "Chadwick Boseman",
-      "Michael B. Jordan",
-      "Lupita Nyong'o",
-      "Danai Gurira",
-      "Martin Freeman"
-    ],
-    "year": "2018",
+    "year": "2023",
     "genres": [
       "Action",
       "Adventure",
       "Science Fiction"
     ],
-    "link": "https://www.themoviedb.org/movie/284054",
-    "title": "Black Panther"
-  },
-  {
-    "overview": "Humans and Transformers are at war. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth. Saving our world falls upon the shoulders of an unlikely alliance: Cade Yeager; Bumblebee; an English Lord; and an Oxford Professor.",
-    "image": "https://image.tmdb.org/t/p/w500//s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg",
-    "actors": [
-      "Mark Wahlberg",
-      "Laura Haddock",
-      "Peter Cullen",
-      "Anthony Hopkins",
-      "Erik Aadahl"
-    ],
-    "year": "2017",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/335988",
-    "title": "Transformers: The Last Knight"
-  },
-  {
-    "overview": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
-    "image": "https://image.tmdb.org/t/p/w500//svIDTNUoajS8dLEo7EosxvyAsgJ.jpg",
-    "actors": [
-      "James McAvoy",
-      "Bruce Willis",
-      "Samuel L. Jackson",
-      "Sarah Paulson",
-      "Anya Taylor-Joy"
-    ],
-    "year": "2019",
-    "genres": [
-      "Thriller",
-      "Drama",
-      "Science Fiction"
-    ],
-    "link": "https://www.themoviedb.org/movie/450465",
-    "title": "Glass"
-  },
-  {
-    "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
-    "image": "https://image.tmdb.org/t/p/w500//ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
-    "actors": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Mark Ruffalo",
-      "Chris Hemsworth",
-      "Scarlett Johansson"
-    ],
-    "year": "2019",
-    "genres": [
-      "Adventure",
-      "Science Fiction",
-      "Action"
-    ],
-    "link": "https://www.themoviedb.org/movie/299534",
-    "title": "Avengers: Endgame"
-  },
-  {
-    "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom in the process.",
-    "image": "https://image.tmdb.org/t/p/w500//oLxWocqheC8XbXbxqJ3x422j9PW.jpg",
-    "actors": [
-      "Rachel Zegler",
-      "Gal Gadot",
-      "Andrew Burnap",
-      "Jeremy Swift",
-      "Jason Kravits"
-    ],
-    "year": "2025",
-    "genres": [
-      "Family",
-      "Fantasy"
-    ],
-    "link": "https://www.themoviedb.org/movie/447273",
-    "title": "Snow White"
-  },
-  {
-    "overview": "A fearless knight braves a deadly realm to save the Chosen One\u2019s soul. Facing witches, demons, and brutal foes, he discovers her return could ignite chaos and doom humanity.",
-    "image": "https://image.tmdb.org/t/p/w500//janjdSMrTRGtPrI1p9uOX66jv7x.jpg",
-    "actors": [
-      "Jeremy Ninaber",
-      "Kristen Kaster",
-      "Matthew Ninaber",
-      "Kristen MacCulloch",
-      "Sasha Ormond"
-    ],
-    "year": "2025",
-    "genres": [
-      "Horror",
-      "Action",
-      "Fantasy"
-    ],
-    "link": "https://www.themoviedb.org/movie/1312833",
-    "title": "A Knight's War"
+    "link": "https://www.themoviedb.org/movie/700391",
+    "title": "65"
   },
   {
     "overview": "A small town is shaken by a series of ominous killings in the days leading up to a heated mayoral election.",
@@ -1088,40 +907,203 @@
     "title": "Founders Day"
   },
   {
-    "overview": "An Interpol agent hunting the head of a global crime syndicate tracks his target to Las Vegas, but when the criminal organization kills his wife and daughter, he goes above the law to get his revenge.",
-    "image": "https://image.tmdb.org/t/p/w500//whkFbOZTamHeugEG95jvQehSzAH.jpg",
+    "overview": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
+    "image": "https://image.tmdb.org/t/p/w500//hhkiqXpfpufwxVrdSftzeKIANl3.jpg",
     "actors": [
-      "Brian Ronan Mulroy",
-      "Jamie Ohlsen",
-      "Malachi Durant",
-      "Rob LaColla Jr.",
-      "Trae Ireland"
+      "Bill Skarsgård",
+      "Anthony Hopkins",
+      "Ashley Cartwright",
+      "Michael Eklund",
+      "Navid Charkhi"
     ],
-    "year": "2023",
+    "year": "2025",
     "genres": [
-      "Action",
-      "Thriller",
-      "Crime"
+      "Horror",
+      "Thriller"
     ],
-    "link": "https://www.themoviedb.org/movie/1195585",
-    "title": "The Hard Hit"
+    "link": "https://www.themoviedb.org/movie/1083968",
+    "title": "Locked"
   },
   {
-    "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
-    "image": "https://image.tmdb.org/t/p/w500//w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+    "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her younger brother.",
+    "image": "https://image.tmdb.org/t/p/w500//mwzDApMZAGeYCEVjhegKvCzDX0W.jpg",
     "actors": [
-      "Nicole Wallace",
-      "Gabriel Guevara",
-      "Marta Hazas",
-      "Iván Sánchez",
-      "Eva Ruiz"
+      "Daisy Ridley",
+      "Clive Owen",
+      "Taz Skylar",
+      "Flavia Watson",
+      "Ray Fearon"
     ],
-    "year": "2023",
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/1125899",
+    "title": "Cleaner"
+  },
+  {
+    "overview": "When her husband's sex game goes wrong, Jessie (who is handcuffed to a bed in a remote lake house) faces warped visions, dark secrets and a dire choice.",
+    "image": "https://image.tmdb.org/t/p/w500//32dippiypDdaKv7XFEfUlQ7kPup.jpg",
+    "actors": [
+      "Carla Gugino",
+      "Bruce Greenwood",
+      "Henry Thomas",
+      "Chiara Aurelia",
+      "Kate Siegel"
+    ],
+    "year": "2017",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/343674",
+    "title": "Gerald's Game"
+  },
+  {
+    "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one\u2026only to wake up and find themselves back at the beginning of the same evening.",
+    "image": "https://image.tmdb.org/t/p/w500//6O9nkcmZBymDXtxOGJmulqcxJdv.jpg",
+    "actors": [
+      "Ella Rubin",
+      "Michael Cimino",
+      "Odessa A'zion",
+      "Ji-young Yoo",
+      "Belmont Cameli"
+    ],
+    "year": "2025",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "link": "https://www.themoviedb.org/movie/1232546",
+    "title": "Until Dawn"
+  },
+  {
+    "overview": "After a botched bank robbery lands his younger brother in prison, Connie Nikas embarks on a twisted odyssey through New York City's underworld to get his brother Nick out of jail.",
+    "image": "https://image.tmdb.org/t/p/w500//yE1c9hj5Hf8a9KplAdRdhADqUro.jpg",
+    "actors": [
+      "Robert Pattinson",
+      "Benny Safdie",
+      "Buddy Duress",
+      "Taliah Webster",
+      "Jennifer Jason Leigh"
+    ],
+    "year": "2017",
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "link": "https://www.themoviedb.org/movie/429200",
+    "title": "Good Time"
+  },
+  {
+    "overview": "In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.",
+    "image": "https://image.tmdb.org/t/p/w500//rO2Fq0AZZx9obs52KJdx4mRE8p5.jpg",
+    "actors": [
+      "Joseph Cotten",
+      "Alida Valli",
+      "Trevor Howard",
+      "Orson Welles",
+      "Paul Hörbiger"
+    ],
+    "year": "1949",
+    "genres": [
+      "Thriller",
+      "Mystery"
+    ],
+    "link": "https://www.themoviedb.org/movie/1092",
+    "title": "The Third Man"
+  },
+  {
+    "overview": "After his father's death, Eric Zimmerman travels to Spain to oversee his company's branches. In Madrid, he falls for Judith and engage in an intense, erotic relationship full of exploration. However, Eric fears his secret may end their affair.",
+    "image": "https://image.tmdb.org/t/p/w500//k82T5L1utX1G2LhNWeza9nGUKPk.jpg",
+    "actors": [
+      "Gabriela Andrada",
+      "Mario Ermito",
+      "Celia Freijeiro",
+      "David Solans",
+      "Alba Ribas"
+    ],
+    "year": "2024",
     "genres": [
       "Romance",
       "Drama"
     ],
-    "link": "https://www.themoviedb.org/movie/1010581",
-    "title": "My Fault"
+    "link": "https://www.themoviedb.org/movie/1252309",
+    "title": "Ask Me What You Want"
+  },
+  {
+    "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+    "image": "https://image.tmdb.org/t/p/w500//vZIJxGnjcswPCAa52jhbl01FQkV.jpg",
+    "actors": [
+      "Gustav Fröhlich",
+      "Brigitte Helm",
+      "Alfred Abel",
+      "Rudolf Klein-Rogge",
+      "Theodor Loos"
+    ],
+    "year": "1927",
+    "genres": [
+      "Drama",
+      "Science Fiction"
+    ],
+    "link": "https://www.themoviedb.org/movie/19",
+    "title": "Metropolis"
+  },
+  {
+    "overview": "Two highly-trained operatives are appointed to posts in guard towers on opposite sides of a vast and highly classified gorge, protecting the world from an undisclosed, mysterious evil that lurks within. They bond from a distance while trying to stay vigilant in defending against an unseen enemy. When the cataclysmic threat to humanity is revealed to them, they must work together in a test of both their physical and mental strength to keep the secret in the gorge before it\u2019s too late.",
+    "image": "https://image.tmdb.org/t/p/w500//7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",
+    "actors": [
+      "Miles Teller",
+      "Anya Taylor-Joy",
+      "Sigourney Weaver",
+      "Sope Dirisu",
+      "William Houston"
+    ],
+    "year": "2025",
+    "genres": [
+      "Romance",
+      "Science Fiction",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/950396",
+    "title": "The Gorge"
+  },
+  {
+    "overview": "The story of Tim Ballard, a former US government agent, who quits his job in order to devote his life to rescuing children from global sex traffickers.",
+    "image": "https://image.tmdb.org/t/p/w500//kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",
+    "actors": [
+      "Jim Caviezel",
+      "Mira Sorvino",
+      "Bill Camp",
+      "Gerardo Taracena",
+      "Kurt Fuller"
+    ],
+    "year": "2023",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "link": "https://www.themoviedb.org/movie/678512",
+    "title": "Sound of Freedom"
+  },
+  {
+    "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
+    "image": "https://image.tmdb.org/t/p/w500//q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg",
+    "actors": [
+      "Mark Wahlberg",
+      "Michelle Dockery",
+      "Topher Grace",
+      "Leah Remini",
+      "Maaz Ali"
+    ],
+    "year": "2025",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "link": "https://www.themoviedb.org/movie/1126166",
+    "title": "Flight Risk"
   }
 ]
