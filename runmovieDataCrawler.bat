@@ -1,5 +1,6 @@
 @echo off
-cd /d D:\Java_final_project\javaqimo
+cd /d D:\Java_final_project\movieDataCrawler
+
 
 echo Compile Java File...
 javac -cp ".;lib\json-20240303.jar" MovieApi.java
