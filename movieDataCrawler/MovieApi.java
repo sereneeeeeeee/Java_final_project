@@ -4,12 +4,9 @@ import java.nio.charset.StandardCharsets;
 import java.util.*;
 import org.json.*;
 
-/**
- * TMDB Movie Data Crawler
- * Usage: 
- * Compile: javac -cp .;lib/json-20210307.jar MovieApi.java
- * Run: java -cp .;lib/json-20210307.jar MovieApi
- */
+
+
+
 public class MovieApi {
     private static final Map<Integer, String> genreMap = createGenreMap();
     private static final String BASE_URL = "https://api.themoviedb.org/3";
