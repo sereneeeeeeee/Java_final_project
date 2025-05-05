@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) {
         try {
-            List<Movie> movies = MovieParser.parseJson("D:\\\\Java_final_project\\\\javaqimo\\\\movies.json");
+            List<Movie> movies = MovieParser.parseJson("D:\\\\Java_final_project\\\\movieDataCrawler\\\\movies.json");
             MovieDatabaseSaver.saveMovies(movies);
 
             Movie movie = MovieDatabaseSaver.getMovieById(10); // 你可以換成其他 ID 試試
